@@ -3,3 +3,39 @@
 	-Prints the absolute path name of the current working directory
 -Task 1
 	-Display the contents list of your current directory
+-Task 2
+	-Changes the working directory to the user's home directory
+-Task 3
+	-Displays current directory contents in long format
+-Task 4
+	-Displays current directory contents including hidden files in long format
+-Task 5
+	-Display current directory contents in long format,with user and group ID's displayed numerically and hidden files starting with (.)
+-Task 6 
+	-Create a directory in a different directory 
+-Task 7
+	-Moving a file from one directory to another directory 
+-Task 8
+	-Deleting a file in a directory
+-Task 9
+	-Deleting a directory
+-Task 10
+	-changing to a previous directory
+-Task 11
+	-List all files in different specified directory
+-Task 12
+	-prints the type of a file
+-Task 13
+	-creating a symbolic link
+-Task 14
+	-Copies all html files
+-Task 15 
+	-Moving specific files
+-Task 16
+	-Deletes specified files
+-Task 17
+	-Creates directory inside directory more a tree
+-Task 18
+	-listing specified files
+-Task 19
+	-Creates a magic file
