@@ -6,4 +6,5 @@
 	-Prints effective username of the user
 -Task 2
 	-Prints all groups the current user is part of
-
+-Task 3
+	-Changes the owner
