@@ -4,3 +4,6 @@
 	-A script that changes from the current user to a different user
 -Task 1
 	-Prints effective username of the user
+-Task 2
+	-Prints all groups the current user is part of
+
