@@ -1,0 +1,1 @@
+This are the tasks on shell redirections.
